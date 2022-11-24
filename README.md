@@ -3,7 +3,7 @@
 This is Angular based coding challange for Nov 22. This provides working model for participants to use it.
 
 Steps:
-1. git clone https://infygithub.ad.infosys.com/WorkBench/CodingChampionsUINov22Angular.git .
+1. git clone https://infygithub.ad.infosys.com/WorkBench/CodingChampions_UI_Nov_22_Angular.git .
 2. npm install
 3. npm run start
 4. Point your browser to http://localhost:4200
